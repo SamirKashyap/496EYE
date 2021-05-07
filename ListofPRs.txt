@@ -1,0 +1,12 @@
+https://github.com/opensim-org/opensim-core/pull/894
+https://github.com/code-dot-org/code-dot-org/pull/2291
+https://github.com/mozilla/addons-server/pull/2785
+https://github.com/w3c/respec/pull/346
+https://github.com/atom/atom/pull/2502
+https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet/pull/408
+https://github.com/mozilla/addons-server/pull/1926
+https://github.com/code-dot-org/code-dot-org/pull/415
+https://github.com/code-dot-org/code-dot-org/pull/7789
+https://github.com/atom/atom/pull/4973
+https://github.com/atom/atom/pull/3241
+https://github.com/code-dot-org/code-dot-org/pull/685
